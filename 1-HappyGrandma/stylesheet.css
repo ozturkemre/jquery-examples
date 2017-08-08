@@ -1,0 +1,39 @@
+img {
+	width: 500px;
+	height: 500px;
+}
+div {
+	background-color:blue;
+}
+#chair {
+    position: relative;
+    left: 0;
+    top: 0;
+	width: 100px;
+	height: 100px;
+}
+
+#grandma {
+	position: fixed;
+	left: 998px;
+	top: 0;
+	width: 100px;
+	height: 100px;
+}
+p {
+	font-family: "Times New Roman", Georgia, Serif;
+	color: orange;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin:0;
+	
+	
+	
+}
+.text {
+	background-color: #4CAF50;
+}
+.hint {
+	background-color: #2196F3;
+}
